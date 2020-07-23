@@ -9,4 +9,3 @@ RUN apt-get update && \
  
 CMD /bin/echo "Hello! Aarju"
 
-docker images
